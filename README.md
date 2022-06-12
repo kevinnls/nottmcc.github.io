@@ -18,3 +18,5 @@ get in touch with [kevinnlsamuel on Twitter](https://twitter.com/kevinnlsamuel)
 ## Tool List
 * [passch](/passch)
     - a quick guide on changing your MCC ID password
+* [crelecguide](/crelecguide)
+    - a complete guide on voting remotely for the Class Representative Elections 2020 - 2021
